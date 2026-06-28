@@ -1,1 +1,1 @@
-logger.info('log entry for testing remote');
+logger.info('log entry for remote');
