@@ -1,1 +1,1 @@
-logger.info('log entry for rebase');
+logger.info('log entry for remote');
