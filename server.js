@@ -1,1 +1,1 @@
-logger.info('nope, one more!');
+logger.info('log entry for remote and locally');
