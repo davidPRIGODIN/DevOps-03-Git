@@ -1,3 +1,7 @@
-# DevOps-Git-test-node-app
+This is my new nodejs-app
 
-Training on using Git.
+Change to the text.
+Some additional text instructions
+
+#### 1. Application setup
+#### Installing all the dependencies
